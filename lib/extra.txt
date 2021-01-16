@@ -1,0 +1,18 @@
+  // void updateColor(Gender selectedgender) {
+  //   if (selectedgender == Gender.male) {
+  //     if (maleCardColor == inactiveColour) {
+  //       maleCardColor = activeColour;
+  //       femaleCardColor = inactiveColour;
+  //     } else {
+  //       maleCardColor = inactiveColour;
+  //     }
+  //   }
+  //   if (selectedgender == Gender.female) {
+  //     if (femaleCardColor == inactiveColour) {
+  //       femaleCardColor = activeColour;
+  //       maleCardColor = inactiveColour;
+  //     } else {
+  //       femaleCardColor = inactiveColour;
+  //     }
+  //   }
+  // }
